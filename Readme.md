@@ -106,6 +106,7 @@ Example JSON Input
   "ca": 2,
   "thal": 3
 }
+```
 ---
 
 # Conclusion
