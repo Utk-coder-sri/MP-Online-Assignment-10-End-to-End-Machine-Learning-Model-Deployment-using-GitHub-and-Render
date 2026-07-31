@@ -66,6 +66,47 @@ The Random Forest model achieved high prediction accuracy on the testing dataset
 https://end-to-end-machine-learning-model-tgxv.onrender.com
 
 ---
+## API Usage
+
+### Base URL
+
+https://end-to-end-machine-learning-model-tgxv.onrender.com
+
+### Home Endpoint
+
+Open the following URL in your browser:
+
+https://end-to-end-machine-learning-model-tgxv.onrender.com
+
+Response:
+
+Heart Disease Prediction API is Running
+
+### Prediction Endpoint
+
+**URL**
+
+POST /predict
+
+Example JSON Input
+
+```json
+{
+  "age": 52,
+  "sex": 1,
+  "cp": 0,
+  "trestbps": 125,
+  "chol": 212,
+  "fbs": 0,
+  "restecg": 1,
+  "thalach": 168,
+  "exang": 0,
+  "oldpeak": 1.0,
+  "slope": 2,
+  "ca": 2,
+  "thal": 3
+}
+---
 
 # Conclusion
 
