@@ -63,11 +63,7 @@ The Random Forest model achieved high prediction accuracy on the testing dataset
 
 # Render Deployment URL
 
-Add your deployed Render URL here after deployment.
-
-Example:
-
-https://your-app-name.onrender.com
+https://end-to-end-machine-learning-model-tgxv.onrender.com
 
 ---
 
